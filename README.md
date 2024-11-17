@@ -13,7 +13,7 @@ This repository contains a simple HTML page that allows users to upload images t
     [{"src":"/file/81c72f469e651d7d8b12e.jpg"}]
     ```
 4. **To convert this URL to a clickable link, simply prepend it with the Telegra.ph domain:**
-   - Original: `{"src":"/file/81c72f469e651d7d8b12e.jpg"}`
+   - Original: `{"src":"Screenshot_20241118-052459_Alight Motion.jpg"}`
    - Clickable: [https://telegra.ph/file/81c72f469e651d7d8b12e.jpg](https://telegra.ph/file/81c72f469e651d7d8b12e.jpg)
 
 ## Notes
